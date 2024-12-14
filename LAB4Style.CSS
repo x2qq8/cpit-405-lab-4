@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(134, 179, 209);
+}
+label{
+    display: block;
+    margin-top: 0.6%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0.6%;
+    padding-left: 1%;
+    font-size: 1.6em;
+
+}
+textarea{
+    width: 70%;
+    height: 250px;
+}
+
+
+input{
+    width: 70%;
+    height: 2.3em;
+}
